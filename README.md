@@ -1,10 +1,13 @@
 # 🎉 informaticCHacktoberfest 2024 🎉
 
-Welcome to **Hacktoberfest 2024**! Join developers from around the world in making valuable contributions to open-source projects throughout October.
+Welcome to **Hacktoberfest 2024**! kontribusi sesuai syarat yang gue buat yah cok, gak sesuai gak gw setujui pull requestnya.
+
+![66fc35d92c74c4e4103f3673_Flyte-at-Hacktoberfest-2024](https://github.com/user-attachments/assets/9efc7206-6966-4295-8c43-5f95d9962c41)
+
 
 ## 🚀 What is Hacktoberfest?
 
-Hacktoberfest is an annual event organized by DigitalOcean that encourages developers to contribute to open-source repositories. Whether you're a seasoned developer or a beginner, this is a great opportunity to give back to the community and improve your coding skills.
+Nyenyenye cari sendiri di gugel deskripsinya
 
 ### Event Dates:
 📅 **October 1st - October 31st, 2024**
@@ -19,56 +22,19 @@ Hacktoberfest is an annual event organized by DigitalOcean that encourages devel
 ## 🛠️ Contribution Guidelines
 
 We welcome contributions from everyone! Here are some ways to get involved:
-- Fix bugs or add features.
-- Improve documentation.
-- Refactor existing code.
-- Build tests and improve code quality.
+- Fork it!
+- Silahkan COPY code yang berada didalam file `TEMPLATE_PROFILE.md` lalu kalian edit sesuai dengan yang kalian inginkan
+- Buka folder `profile` di repository ini
+  kemudian klik Add File disamping kanan dan klik `Create New File`
+- Beri nama file nya `Namamu.md` Pastekan kode Markdown yang tadi sudah di copy
+- Atau kamu bisa mengisi kode dalam folder code , isikan snippet kode apapun didalam nya
 
-Please follow these steps to contribute:
-1. Fork this repository.
-2. Clone your forked repository.
-    ```bash
-    git clone https://github.com/YOUR-USERNAME/hacktoberfest-2024.git
-    ```
-3. Create a new branch for your changes.
-    ```bash
-    git checkout -b feature/your-feature
-    ```
-4. Make your changes and commit.
-    ```bash
-    git commit -m "Add: Your feature"
-    ```
-5. Push the changes to your branch.
-    ```bash
-    git push origin feature/your-feature
-    ```
-6. Open a pull request and wait for review!
+## 🌟 List Kontributor Ganteng :)
 
-## 🎯 Projects for Contributions
-
-We encourage contributions to the following projects:
-- [Project 1](https://github.com/your-repo/project1) - Description of the project.
-- [Project 2](https://github.com/your-repo/project2) - Description of the project.
-- [Project 3](https://github.com/your-repo/project3) - Description of the project.
-
-Feel free to explore other repositories under the `hacktoberfest` label on GitHub!
-
-## 🌟 Hacktoberfest Swag
-
-Complete **4 valid PRs** during October and earn yourself:
-- An exclusive **Hacktoberfest 2024 T-shirt** OR
-- The option to **plant a tree** as part of our sustainability initiative.
-
-## 💬 Join the Community
-
-Join the conversation on our [Discord server](https://discord.gg/hacktoberfest) to ask questions, share ideas, and collaborate with fellow open-source enthusiasts!
-
-## 📜 Code of Conduct
-
-We follow the [Hacktoberfest Code of Conduct](https://hacktoberfest.com/code-of-conduct). Please be respectful and courteous in all communications.
+Belom ada masih sepi :)
 
 ---
 
-Let’s celebrate **Hacktoberfest 2024** and contribute to the open-source community together! 🎉
+Let’s celebrate **Hacktoberfest 2024** and contribute to the open-source community together!walaopun kelen cuma edit" readme sama masukin kode gajelas gpp kok :) 🎉
 
 
