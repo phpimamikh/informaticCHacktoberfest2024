@@ -27,6 +27,6 @@ Namamu
 -
 -
 
-### Profile Link Github
+### Profile Link
 
 [Nama](https://github.com/usernamekamu)
