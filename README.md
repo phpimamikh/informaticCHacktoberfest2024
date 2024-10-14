@@ -30,8 +30,17 @@ We welcome contributions from everyone! Here are some ways to get involved:
 - Atau kamu bisa mengisi kode dalam folder code , isikan kode hello world versi bahasa yang berbeda-beda.bisa C C# python serah lu dah asalkan jangan duplikat bahasanya
 
 ## 🌟 List Kontributor Ganteng :)
-
-Belom ada masih sepi :)
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/siren-song-of-war">
+            <img src="https://avatars.githubusercontent.com/siren-song-of-war" width="100;" alt="Jonathan"/>
+            <br />
+            <sub><b>Jonathan Afriliansyah</b></sub>
+        </a>
+    </td>
+ </tr>
+</table>
 
 ---
 
