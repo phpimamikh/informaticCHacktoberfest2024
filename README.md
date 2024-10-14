@@ -39,6 +39,13 @@ We welcome contributions from everyone! Here are some ways to get involved:
             <sub><b>Jonathan Afriliansyah</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/Rdx11">
+            <img src="https://avatars.githubusercontent.com/Rdx11" width="100;" alt="Imam"/>
+            <br />
+            <sub><b>Imam Ikhlasul Jihad</b></sub>
+        </a>
+    </td>
  </tr>
 </table>
 
