@@ -1,5 +1,4 @@
-# informaticCHacktoberfest2024
-# 🎉 Hacktoberfest 2024 🎉
+# 🎉 informaticCHacktoberfest 2024 🎉
 
 Welcome to **Hacktoberfest 2024**! Join developers from around the world in making valuable contributions to open-source projects throughout October.
 
