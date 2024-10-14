@@ -1,7 +1,7 @@
 # Nama
 Jonathan Afriliansyah
 
-<img src="https://avatars.githubusercontent.com/<siren-song-of-war>" width="200" height="200" align="center"/>
+<img src="https://avatars.githubusercontent.com/siren-song-of-war" width="200" height="200" align="center"/>
 
 ### Provisi & Kota
 Nusa Tenggara Barat, Sumbawa Besar
@@ -27,4 +27,4 @@ Manchester United
 
 ### Profile Link
 
-[Jonathan Afriliansyaj](https://github.com/siren-song-of-war)
+[Jonathan Afriliansyah](https://github.com/siren-song-of-war)
