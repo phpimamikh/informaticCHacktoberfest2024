@@ -27,7 +27,7 @@ We welcome contributions from everyone! Here are some ways to get involved:
 - Buka folder `profile` di repository ini
   kemudian klik Add File disamping kanan dan klik `Create New File`
 - Beri nama file nya `Namamu.md` Pastekan kode Markdown yang tadi sudah di copy
-- Atau kamu bisa mengisi kode dalam folder code , isikan snippet kode apapun didalam nya
+- Atau kamu bisa mengisi kode dalam folder code , isikan kode hello world versi bahasa yang berbeda-beda.bisa C C# python serah lu dah asalkan jangan duplikat bahasanya
 
 ## 🌟 List Kontributor Ganteng :)
 
