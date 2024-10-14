@@ -23,7 +23,7 @@ Nyenyenye cari sendiri di gugel deskripsinya
 
 We welcome contributions from everyone! Here are some ways to get involved:
 - Fork it!
-- Silahkan COPY code yang berada didalam file `TEMPLATE_PROFILE.md` lalu kalian edit sesuai dengan yang kalian inginkan
+- Silahkan COPY code yang berada didalam file `Template_profile.md` lalu kalian edit sesuai dengan yang kalian inginkan
 - Buka folder `profile` di repository ini
   kemudian klik Add File disamping kanan dan klik `Create New File`
 - Beri nama file nya `Namamu.md` Pastekan kode Markdown yang tadi sudah di copy
